@@ -1,2 +1,2 @@
-# FundametalsHomework
-FundametalsHomework
+# FundamentalsHomework
+FundamentalsHomework
